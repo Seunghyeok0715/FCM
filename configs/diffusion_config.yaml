@@ -1,0 +1,7 @@
+steps: 1024
+noise_schedule: cosine
+model_mean_type: epsilon
+model_var_type: learned_range
+dynamic_threshold: False
+clip_denoised: True
+rescale_timesteps: False

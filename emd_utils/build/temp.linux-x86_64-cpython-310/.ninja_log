@@ -1,0 +1,5 @@
+# ninja log v5
+1	13814	1733383901475494498	/home/shshin/MSN-Point-Cloud-Completion/emd/build/temp.linux-x86_64-cpython-310/emd_cuda.o	f77d531403f87365
+0	19611	1733383907275423104	/home/shshin/MSN-Point-Cloud-Completion/emd/build/temp.linux-x86_64-cpython-310/emd.o	8c0ff8d94f99be0d
+4	13770	1733384240279829825	/home/shshin/pointe-DPS/emd/build/temp.linux-x86_64-cpython-310/emd_cuda.o	10be17dc592b06c8
+4	19333	1733384245831776654	/home/shshin/pointe-DPS/emd/build/temp.linux-x86_64-cpython-310/emd.o	de1964045f9ba203

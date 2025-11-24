@@ -1,0 +1,17 @@
+# pytorch3d
+numpy
+PyYAML
+tqdm
+requests
+filelock
+einops
+matplotlib
+Pillow
+plyfile
+open3d
+h5py
+scikit-learn
+clip @ git+https://github.com/openai/CLIP.git
+-e ./emd_utils
+-e ./RepKPU/models/Chamfer3D
+-e ./RepKPU/models/pointops
