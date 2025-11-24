@@ -1,0 +1,11 @@
+# ninja log v5
+0	15434	1732262095973929971	pointops_api.o	883d1aad4c053b90
+1	28584	1732262109113942123	ballquery_cuda_kernel.cuda.o	ae0701e6ccf64dbe
+1	28729	1732262109263944759	knnquery_heap_cuda_kernel.cuda.o	43b0172dfe255f93
+1	28778	1732262109313945641	knnquery_cuda_kernel.cuda.o	60929c13c02e398d
+5	28852	1732262109383946870	featuredistribute_cuda_kernel.cuda.o	bbf26ea6ba4279f0
+4	28878	1732262109413947399	labelstat_cuda_kernel.cuda.o	525a26c66f738ac
+3	28979	1732262109513949160	grouping_int_cuda_kernel.cuda.o	cfbcb787b4c29fb
+3	29054	1732262109583950388	interpolation_cuda_kernel.cuda.o	a74d4d10e5641acc
+2	29066	1732262109603950741	grouping_cuda_kernel.cuda.o	5d9056e0aad621f5
+4	29302	1732262109833954783	sampling_cuda_kernel.cuda.o	e8149c87168b71f1
