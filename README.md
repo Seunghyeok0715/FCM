@@ -111,6 +111,8 @@ Here, `N_view` denotes the number of input measurement images used for reconstru
 Our implementation is based on the Point-E model and training pipeline provided by OpenAI's repository: [Point-E](https://github.com/openai/point-e).
 The rendered ShapeNet images (albedo, resolution 224×224) are obtained from [ShapenetRender_more_variation](https://github.com/Xharlie/ShapenetRender_more_variation).
 The ground-truth point clouds are taken from the PointFlow dataset from [PointFlow](https://github.com/stevenygd/PointFlow).
+The point cloud upsampling model is adopted from [RepKPU](https://github.com/EasyRy/RepKPU).
+
 We thank the authors of these works for releasing their code and data.
 
 ### Citation
