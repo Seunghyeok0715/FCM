@@ -18,7 +18,7 @@
   - [Sampling](#sampling)
 - [Acknowledgement](#acknowledgement)
 - [Citation](#citation)
-- 
+
 ## Overview
 
 ### Abstract
