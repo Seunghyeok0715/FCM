@@ -1,7 +1,7 @@
 <div align="center">
 
 ## Adaptive 3D Reconstruction via Diffusion Priors and Forward Curvature-Matching Likelihood Updates (NeurIPS 2025 (Spotlight))
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2511.06310) [![NeurIPS](https://img.shields.io/badge/NeurIPS-2025-4b6bfb.svg)](https://neurips.cc/virtual/2025/loc/san-diego/poster/118820)
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2511.06310) [![NeurIPS](https://img.shields.io/badge/NeurIPS-2025-4b6bfb.svg)](https://neurips.cc/virtual/2025/loc/san-diego/poster/118820)[![project](https://img.shields.io/badge/project-page-blue.svg)](https://fcm2025.github.io/)
 
 
 </div>
