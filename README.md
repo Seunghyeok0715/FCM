@@ -84,10 +84,12 @@ Set the radius to `0.018`:
 
 ```bash
 python main.py \
-  --gt_dir /path/to/test_ply \
+  --gt_dir /path/to/test_ply \ 
   --data_dir /path/to/albedo/test \
   --upsample_model /path/to/pugan_best.pth \
   --model /path/to/airplane.pth \
+  --object airplane \
+  --data_lists FCM/data_lists/matched_files_airplane.txt \
   --radius 0.018 \
   --N_view 1
 ```
@@ -100,7 +102,9 @@ python main.py \
   --gt_dir /path/to/test_ply \
   --data_dir /path/to/albedo/test \
   --upsample_model /path/to/pugan_best.pth \
-  --model /path/to/airplane.pth \
+  --model /path/to/car.pth \
+  --object car \
+  --data_lists FCM/data_lists/matched_files_car.txt \
   --radius 0.027 \
   --N_view 1
 ```
